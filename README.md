@@ -29,5 +29,5 @@ This file contains the fish species relative frequencies (columns) in each wetla
 ## site_data.CSV
 This file contains for each sampled wetland (lines) the wetland type (wet_type), as well as the plant species richness (plant_rich), bird species richness (bird_rich) and fish species richness (fish_rich), calculated using species number. NA values in the bird_rich column indicate sites were we couldn't get data due to equipment failure. Type value "alder" refers to alder swamps, which were dominated by _Alnus incana_ ssp. _rugosa_. Type value "peat" refers to site that were poor fens dominated by ericaceous vegetation and _Sphagnum_ mosses. Type value "ash" refers to ash swamps that were dominated by _Fraxinus nigra_ with tree cover reaching at least 30%.
 
-## keystone_code
+## keystone_code.R
 This file contains and example of the method we used to compute the CIi values for the plant dataset.

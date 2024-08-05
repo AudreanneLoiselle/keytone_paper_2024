@@ -31,8 +31,6 @@
 
 # Plant dataset preparation ----------------------------------------------------------
 
-setwd("C:/Backup Audréanne - 2023-10-19/Documents/Doctorat/Article 3/Article_3_all_documents_revised")
-
 # First, We need to load the species relative frequency data set, found in this 
 # github repository. These values are the relative frequencies of each species
 # at each sampled sites, as calculated using equation 1 in our manuscript.

@@ -2,7 +2,7 @@
 Data repository for manuscript : Adapting the concept of keystone species to diversity monitoring for plant, bird, and fish communities of wetlands
 
 # Description
-This is the data repository for the files linked to the manuscript titles _Data repository for manuscript : Adapting the concept of keystone species to diversity monitoring for plant, bird, and fish communities of wetlands._
+This is the data repository for the files linked to the manuscript titles _Data repository for manuscript : Adapting the concept of functionally dominant species for observational data
 
 ## Sampling description
 

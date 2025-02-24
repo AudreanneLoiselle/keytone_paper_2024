@@ -1,5 +1,5 @@
 # keytone_paper_2024
-Data repository for manuscript : Adapting the concept of keystone species to diversity monitoring for plant, bird, and fish communities of wetlands
+Data repository for manuscript : Adapting the concept of functionally dominant species for observational data
 
 # Description
 This is the data repository for the files linked to the manuscript titles _Data repository for manuscript : Adapting the concept of functionally dominant species for observational data
